@@ -2,7 +2,10 @@
 ## NYPD Arrest Dashboard
 
 This project analyzes NYPD arrest data using an interactive Excel dashboard.
+## Download the Dashboard
 
-📊 Dashboard Download:  
-[Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1b0Y7NT5mJx6Fw1QkxhjOu-pwPO92HVBD/edit?usp=sharing&ouid=107826766418097100414&rtpof=true&sd=true)
+Due to GitHub repository file size limits, the Excel dashboard is hosted in GitHub Releases.
+
+📊 Download Dashboard:  
+https://github.com/sabeena0/New-york-police-department-excel-dashboard/releases/download/v1.0/dashboard.xlsx
 
